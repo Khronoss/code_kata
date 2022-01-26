@@ -46,7 +46,7 @@ func assertEqual(
     if expectation == result {
         printColored("(\(file):\(line)): Success!", in: .green)
     } else {
-        printColored("(\(file):\(line)): Failed -- \(expectation) != \(result)", in: .red)
+        printColored("(\(file):\(line)): Failed -- expectation(\(expectation)) != result(\(result))", in: .red)
     }
 }
 
