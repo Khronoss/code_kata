@@ -1,7 +1,7 @@
 /*
  Kata: Binary Search (http://codekata.com/kata/kata02-karate-chop/)
 
- Implementation: recursive
+ Implementation: functional, recursive
  */
 
 

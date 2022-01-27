@@ -1,7 +1,7 @@
 /*
  Kata 001: Binary Search (http://codekata.com/kata/kata02-karate-chop/)
 
- Implemented imperatively, not in OOP, with most basic tools
+ Implementation type: imperative, iterative
  */
 
 
